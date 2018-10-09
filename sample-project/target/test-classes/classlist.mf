@@ -1,0 +1,2 @@
+org.jfrog.client.local.ErraiIocTestHelper
+org.jfrog.client.local.HelloWorldClientTest
