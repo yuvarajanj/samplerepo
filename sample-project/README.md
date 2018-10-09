@@ -7,7 +7,7 @@ a simple Errai application. You can now launch GWT development mode, run
 integration tests with coverage reporting, and package your web application
 for deployment.
 
-
+I owned this project
 
 To launch the GWT development mode, change into the project directory (name
 corresponding to the provided artifactId) and type:
